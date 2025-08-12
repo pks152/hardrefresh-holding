@@ -17,7 +17,7 @@ export default function HomePage() {
 
         {/* "Coming Soon" Message */}
         <p className="mt-8 text-base text-gray-400">
-          We're building something good.
+          We are busy building something good.
         </p>
 
         {/* Call to Action (Email Link) */}
